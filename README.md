@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/coder395/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/coder395/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/coder395/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/coder395/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/coder395/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3379-score-of-a-string](https://github.com/coder395/LEETCODE/tree/master/3379-score-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/coder395/LEETCODE/tree/master/3811-reverse-degree-of-a-string) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/coder395/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/coder395/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
