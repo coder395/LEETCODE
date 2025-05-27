@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/coder395/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/coder395/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/coder395/LEETCODE/tree/master/0013-roman-to-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/coder395/LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/coder395/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/coder395/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/coder395/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/coder395/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
