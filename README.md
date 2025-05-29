@@ -69,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/coder395/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/coder395/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/coder395/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/coder395/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
